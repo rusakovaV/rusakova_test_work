@@ -1,0 +1,6 @@
+[
+  "test/test_check_home_page.py::test_check_home_page",
+  "test/test_login.py::test_login[test-test]",
+  "test/test_login.py::test_login[test_rusakova@internet.ru-84426369]",
+  "test/test_logout.py::test_logout[test_rusakova@internet.ru-84426369]"
+]
